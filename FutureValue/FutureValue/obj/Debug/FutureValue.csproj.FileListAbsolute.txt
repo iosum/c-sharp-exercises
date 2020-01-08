@@ -1,0 +1,10 @@
+D:\Georgian\c#\2017-code\FutureValue\FutureValue\bin\Debug\FutureValue.exe.config
+D:\Georgian\c#\2017-code\FutureValue\FutureValue\bin\Debug\FutureValue.exe
+D:\Georgian\c#\2017-code\FutureValue\FutureValue\bin\Debug\FutureValue.pdb
+D:\Georgian\c#\2017-code\FutureValue\FutureValue\obj\Debug\FutureValue.csprojAssemblyReference.cache
+D:\Georgian\c#\2017-code\FutureValue\FutureValue\obj\Debug\FutureValue.Form1.resources
+D:\Georgian\c#\2017-code\FutureValue\FutureValue\obj\Debug\FutureValue.Properties.Resources.resources
+D:\Georgian\c#\2017-code\FutureValue\FutureValue\obj\Debug\FutureValue.csproj.GenerateResource.cache
+D:\Georgian\c#\2017-code\FutureValue\FutureValue\obj\Debug\FutureValue.csproj.CoreCompileInputs.cache
+D:\Georgian\c#\2017-code\FutureValue\FutureValue\obj\Debug\FutureValue.exe
+D:\Georgian\c#\2017-code\FutureValue\FutureValue\obj\Debug\FutureValue.pdb
