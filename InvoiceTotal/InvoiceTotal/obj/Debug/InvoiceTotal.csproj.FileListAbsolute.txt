@@ -1,0 +1,10 @@
+D:\Georgian\c#\2017-code\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+D:\Georgian\c#\2017-code\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+D:\Georgian\c#\2017-code\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+D:\Georgian\c#\2017-code\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+D:\Georgian\c#\2017-code\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+D:\Georgian\c#\2017-code\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+D:\Georgian\c#\2017-code\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+D:\Georgian\c#\2017-code\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+D:\Georgian\c#\2017-code\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+D:\Georgian\c#\2017-code\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
